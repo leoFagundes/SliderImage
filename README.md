@@ -1,3 +1,3 @@
 # SliderImage
 
-## Slider de Imagens
+## Slider de Imagens para usar em projetos
